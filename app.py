@@ -6,10 +6,10 @@ st.title("🔍 QueryVerse: SQL-Powered Search Insight Engine")
 
 st.markdown("""
 Upload your own CSVs for the following tables:
-- **Products** (`sample_products.csv`)
-- **Search Queries** (`sample_search_queries.csv`)
-- **Click Logs** (`sample_click_logs.csv`)
-- **Purchase Logs** (`sample_purchase_logs.csv`)
+- **Products** (`products.csv`)
+- **Search Queries** (`search_queries.csv`)
+- **Click Logs** (`click_logs.csv`)
+- **Purchase Logs** (`purchase_logs.csv`)
 """)
 
 # File uploaders
