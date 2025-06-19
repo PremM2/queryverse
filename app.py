@@ -57,9 +57,5 @@ if all([products_file, search_file, clicks_file, purchase_file]):
 
 else:
     st.info("⬆️ Please upload all four required CSV files to begin analysis.")
-
-
-
-
 Add app.py (main Streamlit script)
 
